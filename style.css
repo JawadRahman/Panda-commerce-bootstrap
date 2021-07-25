@@ -1,0 +1,14 @@
+.bg-info{
+    background-color: pink !important;
+}
+.bg-secondary{
+    background-color: #da70d6 !important; 
+}
+
+.catagories img{
+    width: 100px;
+}
+.btn{
+    background-color: #ff3c89;
+    color: white;
+}
